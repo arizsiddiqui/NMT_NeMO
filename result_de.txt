@@ -1,0 +1,9 @@
+Hallo zusammen!
+Ich arbeite mit dem NVIDIA NeMO Toolkit.
+Ich kann jetzt Texte aus dem Englischen in verschiedene Sprachen übersetzen und umgekehrt.
+Blindsuche ist der Prozess des Durchlaufens des Suchraums, bis die Zielknoten gefunden werden (möglicherweise eine erschöpfende Suche). Dies garantiert eine Lösung.
+Die Fähigkeit, argumentative Logik zu erkennen und zu bewerten, wird als kritisches Denken bezeichnet. Es unterscheidet sich vom Leseverständnis in der Strukturierung der Passage.
+Bei geringem Platzbedarf müssen nur der Pfad zum aktuellen Knoten und die Geschwister jedes Knotens im Pfad gespeichert werden. Die Backtracking-Suche generiert nur einen Nachfolger für jeden Knoten.
+Als das internet im laufe der jahre wuchs, änderten sich die art und größe von routern, da router, die auf universellen pc-architekturen basieren, durch die leistung des zentralen prozessors und des speich
+Router können unterschiedlich komplex sein, je nachdem, wo im Netzwerk sie eingesetzt werden und wie viel Datenverkehr sie aufrechterhalten müssen.
+Für die Abschätzung der Kühllasten müssen die instationären Prozesse berücksichtigt werden, da die Spitzenkühllast während der Tageszeit auftritt und die äußeren Bedingungen aufgrund der Sonneneinstrahlung auch tagsüber stark variieren.

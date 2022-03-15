@@ -1,0 +1,9 @@
+Hello!
+I am working with NVIDIA NeMO Toolkit.
+I can now translate text from English to various languages and vice-versa.
+Blind search is the process of traversing the search space until the goal nodes are found (might be doing exhaustive search). This guarantees a solution.
+The ability to recognise and evaluate argumentative logic is known as critical reasoning. It differs from reading comprehension in the structuring of the passage.
+Small space requires only the path to the current node and the siblings of each node in the path to be stored. Backtracking search generates only one successor for each node.
+As the internet grew over the years, the type and size of routers changed, since routers based on general-purpose PC architectures are limited by the performance of the central processor and memory.
+Routers can be of different comlpexity based on where in the network they are deployed and how much traffic they need to sustain.
+For estimating cooling loads, one has to consider the unsteady state processes, as the peak cooling load occurs during the day time and the outside conditions also vary significantly throughput the day due to solar radiation.

@@ -1,0 +1,9 @@
+Bonjour !
+Je travaille avec NVIDIA NeMO Toolkit.
+Je peux maintenant traduire du texte de l'anglais vers différentes langues et vice-versa.
+La recherche en aveugle est le processus qui consiste à parcourir l'espace de recherche jusqu'à ce que les nuds cibles soient trouvés (peut-être en faisant une recherche exhaustive). Cela garantit une solution.
+La capacité de reconnaître et d'évaluer la logique argumentative est connue sous le nom de raisonnement critique. Il diffère de la compréhension de la lecture dans la structuration du passage.
+L'espace restreint ne nécessite que le chemin d'accès au nud actuel et les frères et surs de chaque nud du chemin à stocker. La recherche de retour en arrière ne génère qu'un successeur pour chaque nud.
+Au fur et à mesure de la croissance d'Internet, le type et la taille des routeurs ont changé, car les routeurs basés sur des architectures PC à usage général sont limités par les performances du processeur central et de la mémoire.
+Les routeurs peuvent être de complexité différente en fonction de l'endroit du réseau o ils sont déployés et de la quantité de trafic qu'ils doivent supporter.
+Pour estimer les charges de refroidissement, il faut tenir compte des processus en état instationnaire, car la charge de refroidissement maximale se produit pendant la journée et les conditions extérieures varient également de manière significative pendant la journée en raison du rayonnement solaire.
